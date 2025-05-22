@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>LiLisyn123</title>
     <link>https://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content on LiLisyn123</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 May 2025 21:26:44 +0800</lastBuildDate>
@@ -21,6 +21,13 @@
       <pubDate>Sun, 18 May 2025 23:14:54 +0800</pubDate>
       <guid>https://example.org/post/my-first-post/</guid>
       <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;&#xA;&lt;p&gt;这是 &lt;strong&gt;粗体&lt;/strong&gt; 文本，这是 &lt;em&gt;斜体&lt;/em&gt; 文本。&lt;/p&gt;&#xA;&lt;p&gt;访问 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 网站！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://example.org/post/hello/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://example.org/post/hello/</guid>
+      <description>&lt;p&gt;💘 博麗 霊夢 💘&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
