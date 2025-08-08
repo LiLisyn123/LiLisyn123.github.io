@@ -3,31 +3,79 @@
   <channel>
     <title>LiLisyn123</title>
     <link>https://example.org/post/</link>
-    <description>Recent content on LiLisyn123</description>
+    <description>Recent content from LiLisyn123</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
+    
+    <managingEditor>13997863003@163.com (LiLisyn123)</managingEditor>
+    <webMaster>13997863003@163.com (LiLisyn123)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
     <lastBuildDate>Tue, 20 May 2025 21:26:44 +0800</lastBuildDate>
-    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
     <item>
       <title>123</title>
       <link>https://example.org/post/123/</link>
-      <pubDate>Tue, 20 May 2025 21:26:44 +0800</pubDate>
+      <pubDate>Tue, 20 May 2025 21:26:44 &#43;0800</pubDate>
+      <author>13997863003@163.com (LiLisyn123)</author>
       <guid>https://example.org/post/123/</guid>
-      <description>&lt;p&gt;HELLO,WORLD!&lt;/p&gt;</description>
+      <description>
+        <![CDATA[<h1>123</h1><p>作者：LiLisyn123（13997863003@163.com）</p>
+        
+          <p>HELLO,WORLD!</p>
+        
+        <hr><p>本文2025-05-20首发于<a href='https://example.org/'>LiLisyn123</a>，最后修改于2025-05-20</p>]]>
+      </description>
+      
     </item>
+    
+    
+
     <item>
       <title>My First Post</title>
       <link>https://example.org/post/my-first-post/</link>
-      <pubDate>Sun, 18 May 2025 23:14:54 +0800</pubDate>
+      <pubDate>Sun, 18 May 2025 23:14:54 &#43;0800</pubDate>
+      <author>13997863003@163.com (LiLisyn123)</author>
       <guid>https://example.org/post/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;&#xA;&lt;p&gt;这是 &lt;strong&gt;粗体&lt;/strong&gt; 文本，这是 &lt;em&gt;斜体&lt;/em&gt; 文本。&lt;/p&gt;&#xA;&lt;p&gt;访问 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 网站！&lt;/p&gt;</description>
+      <description>
+        <![CDATA[<h1>My First Post</h1><p>作者：LiLisyn123（13997863003@163.com）</p>
+        
+          <h2 id="简介">
+<a class="header-anchor" href="#%e7%ae%80%e4%bb%8b"></a>
+简介
+</h2><p>这是 <strong>粗体</strong> 文本，这是 <em>斜体</em> 文本。</p>
+<p>访问 <a href="https://gohugo.io">Hugo</a> 网站！</p>
+        
+        <hr><p>本文2025-05-18首发于<a href='https://example.org/'>LiLisyn123</a>，最后修改于2025-05-18</p>]]>
+      </description>
+      
     </item>
+    
+    
+
     <item>
       <title>Hello World</title>
       <link>https://example.org/post/hello/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <author>13997863003@163.com (LiLisyn123)</author>
       <guid>https://example.org/post/hello/</guid>
-      <description>&lt;p&gt;💘 博麗 霊夢 💘&lt;/p&gt;</description>
+      <description>
+        <![CDATA[<h1>Hello World</h1><p>作者：LiLisyn123（13997863003@163.com）</p>
+        
+          <p>💘 博麗 霊夢 💘</p>
+        
+        <hr><p>本文2023-03-15首发于<a href='https://example.org/'>LiLisyn123</a>，最后修改于2023-03-15</p>]]>
+      </description>
+      
     </item>
+    
   </channel>
 </rss>
