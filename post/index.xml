@@ -12,7 +12,7 @@
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate>Tue, 20 May 2025 21:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 19:59:03 +0800</lastBuildDate>
     
     
     <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -22,39 +22,17 @@
     
 
     <item>
-      <title>123</title>
-      <link>https://example.org/post/123/</link>
-      <pubDate>Tue, 20 May 2025 21:26:44 &#43;0800</pubDate>
+      <title>1</title>
+      <link>https://example.org/post/1/</link>
+      <pubDate>Fri, 08 Aug 2025 19:59:03 &#43;0800</pubDate>
       <author>13997863003@163.com (LiLisyn123)</author>
-      <guid>https://example.org/post/123/</guid>
+      <guid>https://example.org/post/1/</guid>
       <description>
-        <![CDATA[<h1>123</h1><p>作者：LiLisyn123（13997863003@163.com）</p>
+        <![CDATA[<h1>1</h1><p>作者：LiLisyn123（13997863003@163.com）</p>
         
-          <p>HELLO,WORLD!</p>
+          
         
-        <hr><p>本文2025-05-20首发于<a href='https://example.org/'>LiLisyn123</a>，最后修改于2025-05-20</p>]]>
-      </description>
-      
-    </item>
-    
-    
-
-    <item>
-      <title>My First Post</title>
-      <link>https://example.org/post/my-first-post/</link>
-      <pubDate>Sun, 18 May 2025 23:14:54 &#43;0800</pubDate>
-      <author>13997863003@163.com (LiLisyn123)</author>
-      <guid>https://example.org/post/my-first-post/</guid>
-      <description>
-        <![CDATA[<h1>My First Post</h1><p>作者：LiLisyn123（13997863003@163.com）</p>
-        
-          <h2 id="简介">
-<a class="header-anchor" href="#%e7%ae%80%e4%bb%8b"></a>
-简介
-</h2><p>这是 <strong>粗体</strong> 文本，这是 <em>斜体</em> 文本。</p>
-<p>访问 <a href="https://gohugo.io">Hugo</a> 网站！</p>
-        
-        <hr><p>本文2025-05-18首发于<a href='https://example.org/'>LiLisyn123</a>，最后修改于2025-05-18</p>]]>
+        <hr><p>本文2025-08-08首发于<a href='https://example.org/'>LiLisyn123</a>，最后修改于2025-08-08</p>]]>
       </description>
       
     </item>
